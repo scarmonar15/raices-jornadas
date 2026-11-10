@@ -1022,6 +1022,17 @@ populateSedeOptions();
 updateSessionOptions();
 populateComparadorSelect();
 renderDashboard();
+
+// Auto-cargar Google Sheet si viene por parámetro ?sheet=URL o está guardado en el navegador
+const params = new URLSearchParams(window.location.search);
+const savedSheet = params.get("sheet") || localStorage.getItem("raices_sheet_url");
+if (savedSheet) {
+  document.getElementById("inputSheetUrl").value = savedSheet;
+  fetch(normalizeSheetUrl(savedSheet))
+    .then(r => r.ok ? r.text() : Promise.reject())
+    .then(txt => ingestCSVText(txt, "Google Sheet en vivo"))
+    .catch(() => {});
+}
 </script>
 </body>
 </html>
