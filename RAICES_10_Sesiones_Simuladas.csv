@@ -1,0 +1,491 @@
+ID_Registro,ID_Sesion,Fecha,Hora,Institucion_Sede,Grado_Grupo,Voluntario,Momento_Modulo,Pregunta,Opcion_Respuesta,Cantidad_Respuestas
+1,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 4,Momento 4 Máscaras,Perro,13
+2,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 4,Momento 4 Máscaras,Gato,10
+3,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 4,Momento 4 Máscaras,No participa/participa sin máscara,0
+4,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,comida rica y nutritiva y tomar agua fresca y limpia,22
+5,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Comer lo que sobre de mis humanos y tener agua de vez en cuando,0
+6,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Aguantar hambre y tomar agua de la calle,1
+7,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,¿dónde y cómo te gustaría dormir?,"En una casita calientita, tranquilitos y protegidos de la lluvia",23
+8,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,¿dónde y cómo te gustaría dormir?,"Bajo la lluvia, sin poder descansar y amarrado del cuello",0
+9,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,¿dónde y cómo te gustaría dormir?,"En un sitio sucio, asustado y sin moverme",0
+10,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,Si me duele algo o me siento mal,Visitar a los médicos de animales y que me curen,20
+11,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,Si me duele algo o me siento mal,"Esperar mucho tiempo sin hacer nada, que se pase solo",3
+12,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,Si me duele algo o me siento mal,Que te echen eso que sabes que arde y que no sirve,0
+13,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,¿Qué cosas te gusta hacer?,"Olfatear, explorar y jugar, rascar, esconderse o trepar.",22
+14,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,¿Qué cosas te gusta hacer?,"Estar en la calle todo el tiempo, persiguiendo motos y evitando que me golpeen",1
+15,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,¿Qué cosas te gusta hacer?,Estar amarrado todo el tiempo,0
+16,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,5-5 ¿Qué me hace feliz?,Que me cuiden y den cariño,23
+17,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,5-5 ¿Qué me hace feliz?,Que me ignoren y no les importe mucho lo que pase conmigo,0
+18,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 5,5-5 ¿Qué me hace feliz?,"Que me griten, me persigan o me tiren cosas",0
+19,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Le sirvo comidita y cambio el agua,23
+20,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Darle cualquier cosa o esperar que alguien más lo haga,0
+21,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Lo ignoro y me quedo calladito,0
+22,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,"Pedir a una persona adulta que ponga una casita, seca y segura.",23
+23,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,Poner un techo y dejarlo amarrado allí,0
+24,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,dejarlo fuera de casa y amarrado que no pueda moverse mucho,0
+25,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,depende de cómo se comporte,0
+26,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Avisar pronto a un adulto para llevarlo a los médicos de animales,23
+27,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Darle cualquier cosa a ver si sirven,0
+28,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Burlarnos o ignorarlo,0
+29,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Mantener distancia y pedir apoyo a una persona adulta,20
+30,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Acercarnos a tocarlo o cargarlo sin permiso,2
+31,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?","Perseguirlo, lanzarle objetos y gritarle",1
+32,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?","Respetar su señal, darle espacio y solo acompañarlo",23
+33,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Forzarlo a jugar,0
+34,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Regañarlo y gritarle,0
+35,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Tener agua limpia,VERDE,23
+36,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Tener agua limpia,AMARILLO,0
+37,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Tener agua limpia,ROJO,0
+38,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,VERDE,14
+39,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,AMARILLO,9
+40,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,ROJO,0
+41,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Acercarse a un perro desconocido,VERDE,0
+42,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Acercarse a un perro desconocido,AMARILLO,11
+43,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Acercarse a un perro desconocido,ROJO,12
+44,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,VERDE,0
+45,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,AMARILLO,0
+46,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,ROJO,23
+47,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Gritar o golpear,VERDE,1
+48,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Gritar o golpear,AMARILLO,0
+49,J01,2026-11-10,08:00,INEM Pereira,3°A,Voluntaria Laura,Matriz del Semáforo,Gritar o golpear,ROJO,22
+50,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 4,Momento 4 Máscaras,Perro,17
+51,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 4,Momento 4 Máscaras,Gato,9
+52,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 4,Momento 4 Máscaras,No participa/participa sin máscara,0
+53,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,comida rica y nutritiva y tomar agua fresca y limpia,24
+54,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Comer lo que sobre de mis humanos y tener agua de vez en cuando,1
+55,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Aguantar hambre y tomar agua de la calle,1
+56,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,¿dónde y cómo te gustaría dormir?,"En una casita calientita, tranquilitos y protegidos de la lluvia",24
+57,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,¿dónde y cómo te gustaría dormir?,"Bajo la lluvia, sin poder descansar y amarrado del cuello",0
+58,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,¿dónde y cómo te gustaría dormir?,"En un sitio sucio, asustado y sin moverme",2
+59,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,Si me duele algo o me siento mal,Visitar a los médicos de animales y que me curen,23
+60,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,Si me duele algo o me siento mal,"Esperar mucho tiempo sin hacer nada, que se pase solo",3
+61,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,Si me duele algo o me siento mal,Que te echen eso que sabes que arde y que no sirve,0
+62,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,¿Qué cosas te gusta hacer?,"Olfatear, explorar y jugar, rascar, esconderse o trepar.",24
+63,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,¿Qué cosas te gusta hacer?,"Estar en la calle todo el tiempo, persiguiendo motos y evitando que me golpeen",2
+64,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,¿Qué cosas te gusta hacer?,Estar amarrado todo el tiempo,0
+65,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,5-5 ¿Qué me hace feliz?,Que me cuiden y den cariño,25
+66,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,5-5 ¿Qué me hace feliz?,Que me ignoren y no les importe mucho lo que pase conmigo,0
+67,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 5,5-5 ¿Qué me hace feliz?,"Que me griten, me persigan o me tiren cosas",1
+68,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Le sirvo comidita y cambio el agua,24
+69,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Darle cualquier cosa o esperar que alguien más lo haga,1
+70,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Lo ignoro y me quedo calladito,1
+71,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,"Pedir a una persona adulta que ponga una casita, seca y segura.",21
+72,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,Poner un techo y dejarlo amarrado allí,2
+73,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,dejarlo fuera de casa y amarrado que no pueda moverse mucho,1
+74,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,depende de cómo se comporte,2
+75,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Avisar pronto a un adulto para llevarlo a los médicos de animales,24
+76,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Darle cualquier cosa a ver si sirven,0
+77,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Burlarnos o ignorarlo,2
+78,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Mantener distancia y pedir apoyo a una persona adulta,23
+79,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Acercarnos a tocarlo o cargarlo sin permiso,2
+80,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?","Perseguirlo, lanzarle objetos y gritarle",1
+81,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?","Respetar su señal, darle espacio y solo acompañarlo",25
+82,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Forzarlo a jugar,1
+83,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Regañarlo y gritarle,0
+84,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Tener agua limpia,VERDE,24
+85,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Tener agua limpia,AMARILLO,2
+86,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Tener agua limpia,ROJO,0
+87,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,VERDE,16
+88,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,AMARILLO,10
+89,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,ROJO,0
+90,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Acercarse a un perro desconocido,VERDE,1
+91,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Acercarse a un perro desconocido,AMARILLO,16
+92,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Acercarse a un perro desconocido,ROJO,9
+93,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,VERDE,2
+94,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,AMARILLO,3
+95,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,ROJO,21
+96,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Gritar o golpear,VERDE,0
+97,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Gritar o golpear,AMARILLO,0
+98,J02,2026-11-10,09:15,INEM Pereira,3°B,Voluntario Mateo,Matriz del Semáforo,Gritar o golpear,ROJO,26
+99,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 4,Momento 4 Máscaras,Perro,11
+100,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 4,Momento 4 Máscaras,Gato,12
+101,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 4,Momento 4 Máscaras,No participa/participa sin máscara,1
+102,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,comida rica y nutritiva y tomar agua fresca y limpia,24
+103,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Comer lo que sobre de mis humanos y tener agua de vez en cuando,0
+104,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Aguantar hambre y tomar agua de la calle,0
+105,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,¿dónde y cómo te gustaría dormir?,"En una casita calientita, tranquilitos y protegidos de la lluvia",22
+106,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,¿dónde y cómo te gustaría dormir?,"Bajo la lluvia, sin poder descansar y amarrado del cuello",2
+107,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,¿dónde y cómo te gustaría dormir?,"En un sitio sucio, asustado y sin moverme",0
+108,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,Si me duele algo o me siento mal,Visitar a los médicos de animales y que me curen,22
+109,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,Si me duele algo o me siento mal,"Esperar mucho tiempo sin hacer nada, que se pase solo",0
+110,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,Si me duele algo o me siento mal,Que te echen eso que sabes que arde y que no sirve,2
+111,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,¿Qué cosas te gusta hacer?,"Olfatear, explorar y jugar, rascar, esconderse o trepar.",23
+112,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,¿Qué cosas te gusta hacer?,"Estar en la calle todo el tiempo, persiguiendo motos y evitando que me golpeen",1
+113,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,¿Qué cosas te gusta hacer?,Estar amarrado todo el tiempo,0
+114,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,5-5 ¿Qué me hace feliz?,Que me cuiden y den cariño,24
+115,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,5-5 ¿Qué me hace feliz?,Que me ignoren y no les importe mucho lo que pase conmigo,0
+116,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 5,5-5 ¿Qué me hace feliz?,"Que me griten, me persigan o me tiren cosas",0
+117,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Le sirvo comidita y cambio el agua,21
+118,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Darle cualquier cosa o esperar que alguien más lo haga,1
+119,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Lo ignoro y me quedo calladito,2
+120,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,"Pedir a una persona adulta que ponga una casita, seca y segura.",21
+121,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,Poner un techo y dejarlo amarrado allí,1
+122,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,dejarlo fuera de casa y amarrado que no pueda moverse mucho,0
+123,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,depende de cómo se comporte,2
+124,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Avisar pronto a un adulto para llevarlo a los médicos de animales,24
+125,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Darle cualquier cosa a ver si sirven,0
+126,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Burlarnos o ignorarlo,0
+127,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Mantener distancia y pedir apoyo a una persona adulta,18
+128,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Acercarnos a tocarlo o cargarlo sin permiso,4
+129,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?","Perseguirlo, lanzarle objetos y gritarle",2
+130,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?","Respetar su señal, darle espacio y solo acompañarlo",23
+131,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Forzarlo a jugar,0
+132,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Regañarlo y gritarle,1
+133,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Tener agua limpia,VERDE,21
+134,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Tener agua limpia,AMARILLO,2
+135,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Tener agua limpia,ROJO,1
+136,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,VERDE,18
+137,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,AMARILLO,5
+138,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,ROJO,1
+139,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Acercarse a un perro desconocido,VERDE,0
+140,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Acercarse a un perro desconocido,AMARILLO,8
+141,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Acercarse a un perro desconocido,ROJO,16
+142,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,VERDE,2
+143,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,AMARILLO,3
+144,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,ROJO,19
+145,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Gritar o golpear,VERDE,1
+146,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Gritar o golpear,AMARILLO,0
+147,J03,2026-11-10,10:30,INEM Pereira,4°A,Voluntaria Laura,Matriz del Semáforo,Gritar o golpear,ROJO,23
+148,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 4,Momento 4 Máscaras,Perro,6
+149,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 4,Momento 4 Máscaras,Gato,15
+150,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 4,Momento 4 Máscaras,No participa/participa sin máscara,1
+151,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,comida rica y nutritiva y tomar agua fresca y limpia,20
+152,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Comer lo que sobre de mis humanos y tener agua de vez en cuando,2
+153,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Aguantar hambre y tomar agua de la calle,0
+154,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,¿dónde y cómo te gustaría dormir?,"En una casita calientita, tranquilitos y protegidos de la lluvia",18
+155,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,¿dónde y cómo te gustaría dormir?,"Bajo la lluvia, sin poder descansar y amarrado del cuello",2
+156,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,¿dónde y cómo te gustaría dormir?,"En un sitio sucio, asustado y sin moverme",2
+157,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,Si me duele algo o me siento mal,Visitar a los médicos de animales y que me curen,19
+158,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,Si me duele algo o me siento mal,"Esperar mucho tiempo sin hacer nada, que se pase solo",3
+159,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,Si me duele algo o me siento mal,Que te echen eso que sabes que arde y que no sirve,0
+160,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,¿Qué cosas te gusta hacer?,"Olfatear, explorar y jugar, rascar, esconderse o trepar.",21
+161,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,¿Qué cosas te gusta hacer?,"Estar en la calle todo el tiempo, persiguiendo motos y evitando que me golpeen",1
+162,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,¿Qué cosas te gusta hacer?,Estar amarrado todo el tiempo,0
+163,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,5-5 ¿Qué me hace feliz?,Que me cuiden y den cariño,22
+164,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,5-5 ¿Qué me hace feliz?,Que me ignoren y no les importe mucho lo que pase conmigo,0
+165,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 5,5-5 ¿Qué me hace feliz?,"Que me griten, me persigan o me tiren cosas",0
+166,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Le sirvo comidita y cambio el agua,21
+167,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Darle cualquier cosa o esperar que alguien más lo haga,0
+168,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Lo ignoro y me quedo calladito,1
+169,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,¿Qué podemos hacer para que duerman felices?,"Pedir a una persona adulta que ponga una casita, seca y segura.",21
+170,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,¿Qué podemos hacer para que duerman felices?,Poner un techo y dejarlo amarrado allí,1
+171,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,¿Qué podemos hacer para que duerman felices?,dejarlo fuera de casa y amarrado que no pueda moverse mucho,0
+172,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,¿Qué podemos hacer para que duerman felices?,depende de cómo se comporte,0
+173,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Avisar pronto a un adulto para llevarlo a los médicos de animales,20
+174,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Darle cualquier cosa a ver si sirven,2
+175,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Burlarnos o ignorarlo,0
+176,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Mantener distancia y pedir apoyo a una persona adulta,22
+177,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Acercarnos a tocarlo o cargarlo sin permiso,0
+178,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?","Perseguirlo, lanzarle objetos y gritarle",0
+179,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?","Respetar su señal, darle espacio y solo acompañarlo",22
+180,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Forzarlo a jugar,0
+181,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Regañarlo y gritarle,0
+182,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Tener agua limpia,VERDE,22
+183,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Tener agua limpia,AMARILLO,0
+184,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Tener agua limpia,ROJO,0
+185,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,VERDE,16
+186,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,AMARILLO,6
+187,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,ROJO,0
+188,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Acercarse a un perro desconocido,VERDE,3
+189,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Acercarse a un perro desconocido,AMARILLO,8
+190,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Acercarse a un perro desconocido,ROJO,11
+191,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,VERDE,0
+192,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,AMARILLO,2
+193,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,ROJO,20
+194,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Gritar o golpear,VERDE,0
+195,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Gritar o golpear,AMARILLO,0
+196,J04,2026-11-10,11:30,INEM Pereira,4°B,Voluntaria Camila,Matriz del Semáforo,Gritar o golpear,ROJO,22
+197,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 4,Momento 4 Máscaras,Perro,15
+198,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 4,Momento 4 Máscaras,Gato,13
+199,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 4,Momento 4 Máscaras,No participa/participa sin máscara,0
+200,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,comida rica y nutritiva y tomar agua fresca y limpia,26
+201,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Comer lo que sobre de mis humanos y tener agua de vez en cuando,1
+202,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Aguantar hambre y tomar agua de la calle,1
+203,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,¿dónde y cómo te gustaría dormir?,"En una casita calientita, tranquilitos y protegidos de la lluvia",26
+204,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,¿dónde y cómo te gustaría dormir?,"Bajo la lluvia, sin poder descansar y amarrado del cuello",1
+205,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,¿dónde y cómo te gustaría dormir?,"En un sitio sucio, asustado y sin moverme",1
+206,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,Si me duele algo o me siento mal,Visitar a los médicos de animales y que me curen,25
+207,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,Si me duele algo o me siento mal,"Esperar mucho tiempo sin hacer nada, que se pase solo",1
+208,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,Si me duele algo o me siento mal,Que te echen eso que sabes que arde y que no sirve,2
+209,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,¿Qué cosas te gusta hacer?,"Olfatear, explorar y jugar, rascar, esconderse o trepar.",26
+210,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,¿Qué cosas te gusta hacer?,"Estar en la calle todo el tiempo, persiguiendo motos y evitando que me golpeen",1
+211,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,¿Qué cosas te gusta hacer?,Estar amarrado todo el tiempo,1
+212,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,5-5 ¿Qué me hace feliz?,Que me cuiden y den cariño,26
+213,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,5-5 ¿Qué me hace feliz?,Que me ignoren y no les importe mucho lo que pase conmigo,2
+214,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 5,5-5 ¿Qué me hace feliz?,"Que me griten, me persigan o me tiren cosas",0
+215,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Le sirvo comidita y cambio el agua,23
+216,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Darle cualquier cosa o esperar que alguien más lo haga,3
+217,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Lo ignoro y me quedo calladito,2
+218,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,"Pedir a una persona adulta que ponga una casita, seca y segura.",26
+219,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,Poner un techo y dejarlo amarrado allí,1
+220,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,dejarlo fuera de casa y amarrado que no pueda moverse mucho,0
+221,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,depende de cómo se comporte,1
+222,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Avisar pronto a un adulto para llevarlo a los médicos de animales,26
+223,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Darle cualquier cosa a ver si sirven,0
+224,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Burlarnos o ignorarlo,2
+225,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Mantener distancia y pedir apoyo a una persona adulta,25
+226,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Acercarnos a tocarlo o cargarlo sin permiso,3
+227,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?","Perseguirlo, lanzarle objetos y gritarle",0
+228,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?","Respetar su señal, darle espacio y solo acompañarlo",26
+229,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Forzarlo a jugar,1
+230,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Regañarlo y gritarle,1
+231,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Tener agua limpia,VERDE,28
+232,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Tener agua limpia,AMARILLO,0
+233,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Tener agua limpia,ROJO,0
+234,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,VERDE,22
+235,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,AMARILLO,5
+236,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,ROJO,1
+237,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Acercarse a un perro desconocido,VERDE,1
+238,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Acercarse a un perro desconocido,AMARILLO,6
+239,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Acercarse a un perro desconocido,ROJO,21
+240,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,VERDE,1
+241,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,AMARILLO,0
+242,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,ROJO,27
+243,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Gritar o golpear,VERDE,0
+244,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Gritar o golpear,AMARILLO,0
+245,J05,2026-11-11,08:00,IE Ciudadela Cuba,3°A,Voluntario Mateo,Matriz del Semáforo,Gritar o golpear,ROJO,28
+246,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 4,Momento 4 Máscaras,Perro,11
+247,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 4,Momento 4 Máscaras,Gato,14
+248,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 4,Momento 4 Máscaras,No participa/participa sin máscara,0
+249,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,comida rica y nutritiva y tomar agua fresca y limpia,19
+250,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Comer lo que sobre de mis humanos y tener agua de vez en cuando,2
+251,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Aguantar hambre y tomar agua de la calle,4
+252,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,¿dónde y cómo te gustaría dormir?,"En una casita calientita, tranquilitos y protegidos de la lluvia",24
+253,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,¿dónde y cómo te gustaría dormir?,"Bajo la lluvia, sin poder descansar y amarrado del cuello",0
+254,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,¿dónde y cómo te gustaría dormir?,"En un sitio sucio, asustado y sin moverme",1
+255,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,Si me duele algo o me siento mal,Visitar a los médicos de animales y que me curen,23
+256,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,Si me duele algo o me siento mal,"Esperar mucho tiempo sin hacer nada, que se pase solo",2
+257,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,Si me duele algo o me siento mal,Que te echen eso que sabes que arde y que no sirve,0
+258,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,¿Qué cosas te gusta hacer?,"Olfatear, explorar y jugar, rascar, esconderse o trepar.",24
+259,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,¿Qué cosas te gusta hacer?,"Estar en la calle todo el tiempo, persiguiendo motos y evitando que me golpeen",0
+260,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,¿Qué cosas te gusta hacer?,Estar amarrado todo el tiempo,1
+261,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,5-5 ¿Qué me hace feliz?,Que me cuiden y den cariño,23
+262,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,5-5 ¿Qué me hace feliz?,Que me ignoren y no les importe mucho lo que pase conmigo,0
+263,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 5,5-5 ¿Qué me hace feliz?,"Que me griten, me persigan o me tiren cosas",2
+264,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Le sirvo comidita y cambio el agua,24
+265,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Darle cualquier cosa o esperar que alguien más lo haga,1
+266,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Lo ignoro y me quedo calladito,0
+267,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,¿Qué podemos hacer para que duerman felices?,"Pedir a una persona adulta que ponga una casita, seca y segura.",21
+268,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,¿Qué podemos hacer para que duerman felices?,Poner un techo y dejarlo amarrado allí,3
+269,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,¿Qué podemos hacer para que duerman felices?,dejarlo fuera de casa y amarrado que no pueda moverse mucho,1
+270,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,¿Qué podemos hacer para que duerman felices?,depende de cómo se comporte,0
+271,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Avisar pronto a un adulto para llevarlo a los médicos de animales,24
+272,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Darle cualquier cosa a ver si sirven,1
+273,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Burlarnos o ignorarlo,0
+274,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Mantener distancia y pedir apoyo a una persona adulta,20
+275,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Acercarnos a tocarlo o cargarlo sin permiso,2
+276,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?","Perseguirlo, lanzarle objetos y gritarle",3
+277,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?","Respetar su señal, darle espacio y solo acompañarlo",24
+278,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Forzarlo a jugar,0
+279,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Regañarlo y gritarle,1
+280,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Tener agua limpia,VERDE,24
+281,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Tener agua limpia,AMARILLO,1
+282,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Tener agua limpia,ROJO,0
+283,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,VERDE,18
+284,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,AMARILLO,6
+285,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,ROJO,1
+286,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Acercarse a un perro desconocido,VERDE,2
+287,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Acercarse a un perro desconocido,AMARILLO,10
+288,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Acercarse a un perro desconocido,ROJO,13
+289,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,VERDE,2
+290,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,AMARILLO,2
+291,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,ROJO,21
+292,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Gritar o golpear,VERDE,1
+293,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Gritar o golpear,AMARILLO,1
+294,J06,2026-11-11,09:15,IE Ciudadela Cuba,3°B,Voluntaria Sofía,Matriz del Semáforo,Gritar o golpear,ROJO,23
+295,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 4,Momento 4 Máscaras,Perro,17
+296,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 4,Momento 4 Máscaras,Gato,8
+297,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 4,Momento 4 Máscaras,No participa/participa sin máscara,2
+298,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,comida rica y nutritiva y tomar agua fresca y limpia,26
+299,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Comer lo que sobre de mis humanos y tener agua de vez en cuando,1
+300,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Aguantar hambre y tomar agua de la calle,0
+301,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,¿dónde y cómo te gustaría dormir?,"En una casita calientita, tranquilitos y protegidos de la lluvia",24
+302,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,¿dónde y cómo te gustaría dormir?,"Bajo la lluvia, sin poder descansar y amarrado del cuello",2
+303,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,¿dónde y cómo te gustaría dormir?,"En un sitio sucio, asustado y sin moverme",1
+304,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,Si me duele algo o me siento mal,Visitar a los médicos de animales y que me curen,24
+305,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,Si me duele algo o me siento mal,"Esperar mucho tiempo sin hacer nada, que se pase solo",2
+306,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,Si me duele algo o me siento mal,Que te echen eso que sabes que arde y que no sirve,1
+307,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,¿Qué cosas te gusta hacer?,"Olfatear, explorar y jugar, rascar, esconderse o trepar.",26
+308,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,¿Qué cosas te gusta hacer?,"Estar en la calle todo el tiempo, persiguiendo motos y evitando que me golpeen",1
+309,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,¿Qué cosas te gusta hacer?,Estar amarrado todo el tiempo,0
+310,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,5-5 ¿Qué me hace feliz?,Que me cuiden y den cariño,26
+311,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,5-5 ¿Qué me hace feliz?,Que me ignoren y no les importe mucho lo que pase conmigo,0
+312,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 5,5-5 ¿Qué me hace feliz?,"Que me griten, me persigan o me tiren cosas",1
+313,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Le sirvo comidita y cambio el agua,27
+314,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Darle cualquier cosa o esperar que alguien más lo haga,0
+315,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Lo ignoro y me quedo calladito,0
+316,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,¿Qué podemos hacer para que duerman felices?,"Pedir a una persona adulta que ponga una casita, seca y segura.",25
+317,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,¿Qué podemos hacer para que duerman felices?,Poner un techo y dejarlo amarrado allí,0
+318,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,¿Qué podemos hacer para que duerman felices?,dejarlo fuera de casa y amarrado que no pueda moverse mucho,0
+319,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,¿Qué podemos hacer para que duerman felices?,depende de cómo se comporte,2
+320,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Avisar pronto a un adulto para llevarlo a los médicos de animales,22
+321,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Darle cualquier cosa a ver si sirven,4
+322,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Burlarnos o ignorarlo,1
+323,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Mantener distancia y pedir apoyo a una persona adulta,24
+324,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Acercarnos a tocarlo o cargarlo sin permiso,2
+325,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?","Perseguirlo, lanzarle objetos y gritarle",1
+326,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?","Respetar su señal, darle espacio y solo acompañarlo",26
+327,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Forzarlo a jugar,0
+328,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Regañarlo y gritarle,1
+329,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Tener agua limpia,VERDE,26
+330,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Tener agua limpia,AMARILLO,1
+331,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Tener agua limpia,ROJO,0
+332,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,VERDE,16
+333,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,AMARILLO,9
+334,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,ROJO,2
+335,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Acercarse a un perro desconocido,VERDE,5
+336,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Acercarse a un perro desconocido,AMARILLO,8
+337,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Acercarse a un perro desconocido,ROJO,14
+338,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,VERDE,0
+339,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,AMARILLO,2
+340,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,ROJO,25
+341,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Gritar o golpear,VERDE,0
+342,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Gritar o golpear,AMARILLO,1
+343,J07,2026-11-11,10:30,IE Ciudadela Cuba,5°A,Voluntaria Camila,Matriz del Semáforo,Gritar o golpear,ROJO,26
+344,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 4,Momento 4 Máscaras,Perro,13
+345,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 4,Momento 4 Máscaras,Gato,8
+346,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 4,Momento 4 Máscaras,No participa/participa sin máscara,0
+347,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,comida rica y nutritiva y tomar agua fresca y limpia,17
+348,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Comer lo que sobre de mis humanos y tener agua de vez en cuando,2
+349,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Aguantar hambre y tomar agua de la calle,2
+350,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,¿dónde y cómo te gustaría dormir?,"En una casita calientita, tranquilitos y protegidos de la lluvia",20
+351,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,¿dónde y cómo te gustaría dormir?,"Bajo la lluvia, sin poder descansar y amarrado del cuello",0
+352,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,¿dónde y cómo te gustaría dormir?,"En un sitio sucio, asustado y sin moverme",1
+353,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,Si me duele algo o me siento mal,Visitar a los médicos de animales y que me curen,20
+354,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,Si me duele algo o me siento mal,"Esperar mucho tiempo sin hacer nada, que se pase solo",0
+355,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,Si me duele algo o me siento mal,Que te echen eso que sabes que arde y que no sirve,1
+356,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,¿Qué cosas te gusta hacer?,"Olfatear, explorar y jugar, rascar, esconderse o trepar.",20
+357,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,¿Qué cosas te gusta hacer?,"Estar en la calle todo el tiempo, persiguiendo motos y evitando que me golpeen",1
+358,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,¿Qué cosas te gusta hacer?,Estar amarrado todo el tiempo,0
+359,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,5-5 ¿Qué me hace feliz?,Que me cuiden y den cariño,21
+360,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,5-5 ¿Qué me hace feliz?,Que me ignoren y no les importe mucho lo que pase conmigo,0
+361,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 5,5-5 ¿Qué me hace feliz?,"Que me griten, me persigan o me tiren cosas",0
+362,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Le sirvo comidita y cambio el agua,17
+363,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Darle cualquier cosa o esperar que alguien más lo haga,1
+364,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Lo ignoro y me quedo calladito,3
+365,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,"Pedir a una persona adulta que ponga una casita, seca y segura.",17
+366,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,Poner un techo y dejarlo amarrado allí,2
+367,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,dejarlo fuera de casa y amarrado que no pueda moverse mucho,0
+368,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,¿Qué podemos hacer para que duerman felices?,depende de cómo se comporte,2
+369,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Avisar pronto a un adulto para llevarlo a los médicos de animales,21
+370,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Darle cualquier cosa a ver si sirven,0
+371,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Burlarnos o ignorarlo,0
+372,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Mantener distancia y pedir apoyo a una persona adulta,13
+373,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Acercarnos a tocarlo o cargarlo sin permiso,7
+374,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?","Perseguirlo, lanzarle objetos y gritarle",1
+375,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?","Respetar su señal, darle espacio y solo acompañarlo",18
+376,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Forzarlo a jugar,1
+377,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Regañarlo y gritarle,2
+378,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Tener agua limpia,VERDE,20
+379,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Tener agua limpia,AMARILLO,1
+380,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Tener agua limpia,ROJO,0
+381,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,VERDE,15
+382,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,AMARILLO,6
+383,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,ROJO,0
+384,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Acercarse a un perro desconocido,VERDE,1
+385,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Acercarse a un perro desconocido,AMARILLO,16
+386,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Acercarse a un perro desconocido,ROJO,4
+387,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,VERDE,0
+388,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,AMARILLO,1
+389,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,ROJO,20
+390,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Gritar o golpear,VERDE,0
+391,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Gritar o golpear,AMARILLO,0
+392,J08,2026-11-12,08:30,IE Alfonso López,3°A,Voluntaria Laura,Matriz del Semáforo,Gritar o golpear,ROJO,21
+393,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 4,Momento 4 Máscaras,Perro,15
+394,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 4,Momento 4 Máscaras,Gato,9
+395,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 4,Momento 4 Máscaras,No participa/participa sin máscara,0
+396,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,comida rica y nutritiva y tomar agua fresca y limpia,23
+397,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Comer lo que sobre de mis humanos y tener agua de vez en cuando,0
+398,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Aguantar hambre y tomar agua de la calle,1
+399,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,¿dónde y cómo te gustaría dormir?,"En una casita calientita, tranquilitos y protegidos de la lluvia",24
+400,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,¿dónde y cómo te gustaría dormir?,"Bajo la lluvia, sin poder descansar y amarrado del cuello",0
+401,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,¿dónde y cómo te gustaría dormir?,"En un sitio sucio, asustado y sin moverme",0
+402,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,Si me duele algo o me siento mal,Visitar a los médicos de animales y que me curen,21
+403,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,Si me duele algo o me siento mal,"Esperar mucho tiempo sin hacer nada, que se pase solo",3
+404,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,Si me duele algo o me siento mal,Que te echen eso que sabes que arde y que no sirve,0
+405,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,¿Qué cosas te gusta hacer?,"Olfatear, explorar y jugar, rascar, esconderse o trepar.",23
+406,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,¿Qué cosas te gusta hacer?,"Estar en la calle todo el tiempo, persiguiendo motos y evitando que me golpeen",0
+407,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,¿Qué cosas te gusta hacer?,Estar amarrado todo el tiempo,1
+408,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,5-5 ¿Qué me hace feliz?,Que me cuiden y den cariño,23
+409,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,5-5 ¿Qué me hace feliz?,Que me ignoren y no les importe mucho lo que pase conmigo,0
+410,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 5,5-5 ¿Qué me hace feliz?,"Que me griten, me persigan o me tiren cosas",1
+411,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Le sirvo comidita y cambio el agua,23
+412,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Darle cualquier cosa o esperar que alguien más lo haga,1
+413,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Lo ignoro y me quedo calladito,0
+414,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,¿Qué podemos hacer para que duerman felices?,"Pedir a una persona adulta que ponga una casita, seca y segura.",23
+415,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,¿Qué podemos hacer para que duerman felices?,Poner un techo y dejarlo amarrado allí,0
+416,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,¿Qué podemos hacer para que duerman felices?,dejarlo fuera de casa y amarrado que no pueda moverse mucho,0
+417,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,¿Qué podemos hacer para que duerman felices?,depende de cómo se comporte,1
+418,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Avisar pronto a un adulto para llevarlo a los médicos de animales,23
+419,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Darle cualquier cosa a ver si sirven,0
+420,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Burlarnos o ignorarlo,1
+421,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Mantener distancia y pedir apoyo a una persona adulta,23
+422,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Acercarnos a tocarlo o cargarlo sin permiso,0
+423,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?","Perseguirlo, lanzarle objetos y gritarle",1
+424,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?","Respetar su señal, darle espacio y solo acompañarlo",22
+425,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Forzarlo a jugar,2
+426,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Regañarlo y gritarle,0
+427,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Tener agua limpia,VERDE,23
+428,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Tener agua limpia,AMARILLO,1
+429,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Tener agua limpia,ROJO,0
+430,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,VERDE,15
+431,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,AMARILLO,9
+432,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,ROJO,0
+433,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Acercarse a un perro desconocido,VERDE,1
+434,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Acercarse a un perro desconocido,AMARILLO,13
+435,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Acercarse a un perro desconocido,ROJO,10
+436,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,VERDE,1
+437,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,AMARILLO,1
+438,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,ROJO,22
+439,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Gritar o golpear,VERDE,0
+440,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Gritar o golpear,AMARILLO,0
+441,J09,2026-11-12,09:45,IE Alfonso López,4°A,Voluntaria Sofía,Matriz del Semáforo,Gritar o golpear,ROJO,24
+442,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 4,Momento 4 Máscaras,Perro,11
+443,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 4,Momento 4 Máscaras,Gato,14
+444,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 4,Momento 4 Máscaras,No participa/participa sin máscara,0
+445,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,comida rica y nutritiva y tomar agua fresca y limpia,20
+446,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Comer lo que sobre de mis humanos y tener agua de vez en cuando,2
+447,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Aguantar hambre y tomar agua de la calle,3
+448,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,¿dónde y cómo te gustaría dormir?,"En una casita calientita, tranquilitos y protegidos de la lluvia",23
+449,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,¿dónde y cómo te gustaría dormir?,"Bajo la lluvia, sin poder descansar y amarrado del cuello",1
+450,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,¿dónde y cómo te gustaría dormir?,"En un sitio sucio, asustado y sin moverme",1
+451,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,Si me duele algo o me siento mal,Visitar a los médicos de animales y que me curen,23
+452,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,Si me duele algo o me siento mal,"Esperar mucho tiempo sin hacer nada, que se pase solo",2
+453,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,Si me duele algo o me siento mal,Que te echen eso que sabes que arde y que no sirve,0
+454,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,¿Qué cosas te gusta hacer?,"Olfatear, explorar y jugar, rascar, esconderse o trepar.",23
+455,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,¿Qué cosas te gusta hacer?,"Estar en la calle todo el tiempo, persiguiendo motos y evitando que me golpeen",1
+456,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,¿Qué cosas te gusta hacer?,Estar amarrado todo el tiempo,1
+457,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,5-5 ¿Qué me hace feliz?,Que me cuiden y den cariño,23
+458,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,5-5 ¿Qué me hace feliz?,Que me ignoren y no les importe mucho lo que pase conmigo,2
+459,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 5,5-5 ¿Qué me hace feliz?,"Que me griten, me persigan o me tiren cosas",0
+460,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Le sirvo comidita y cambio el agua,21
+461,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Darle cualquier cosa o esperar que alguien más lo haga,4
+462,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Lo ignoro y me quedo calladito,0
+463,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,"Pedir a una persona adulta que ponga una casita, seca y segura.",23
+464,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,Poner un techo y dejarlo amarrado allí,0
+465,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,dejarlo fuera de casa y amarrado que no pueda moverse mucho,1
+466,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,¿Qué podemos hacer para que duerman felices?,depende de cómo se comporte,1
+467,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Avisar pronto a un adulto para llevarlo a los médicos de animales,23
+468,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Darle cualquier cosa a ver si sirven,2
+469,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Burlarnos o ignorarlo,0
+470,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Mantener distancia y pedir apoyo a una persona adulta,21
+471,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Acercarnos a tocarlo o cargarlo sin permiso,3
+472,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?","Perseguirlo, lanzarle objetos y gritarle",1
+473,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?","Respetar su señal, darle espacio y solo acompañarlo",25
+474,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Forzarlo a jugar,0
+475,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Regañarlo y gritarle,0
+476,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Tener agua limpia,VERDE,24
+477,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Tener agua limpia,AMARILLO,0
+478,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Tener agua limpia,ROJO,1
+479,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,VERDE,19
+480,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,AMARILLO,6
+481,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,ROJO,0
+482,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Acercarse a un perro desconocido,VERDE,0
+483,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Acercarse a un perro desconocido,AMARILLO,10
+484,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Acercarse a un perro desconocido,ROJO,15
+485,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,VERDE,0
+486,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,AMARILLO,1
+487,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,ROJO,24
+488,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Gritar o golpear,VERDE,0
+489,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Gritar o golpear,AMARILLO,0
+490,J10,2026-11-12,11:00,IE Alfonso López,5°A,Voluntario Mateo,Matriz del Semáforo,Gritar o golpear,ROJO,25

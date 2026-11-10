@@ -1,0 +1,55 @@
+ID_Pregunta_Opcion,Momento_Modulo,Pregunta,Opcion_Respuesta,J01,J02,J03,J04,J05,J06,J07,J08,J09,J10
+META_SEDE,META,Institución / Sede,,INEM Pereira,INEM Pereira,INEM Pereira,INEM Pereira,IE Ciudadela Cuba,IE Ciudadela Cuba,IE Ciudadela Cuba,IE Alfonso López,IE Alfonso López,IE Alfonso López
+META_FECHA,META,Fecha (YYYY-MM-DD),,2026-11-10,2026-11-10,2026-11-10,2026-11-10,2026-11-11,2026-11-11,2026-11-11,2026-11-12,2026-11-12,2026-11-12
+META_HORA,META,Hora,,08:00,09:15,10:30,11:30,08:00,09:15,10:30,08:30,09:45,11:00
+META_GRADO,META,Grado / Grupo,,3°A,3°B,4°A,4°B,3°A,3°B,5°A,3°A,4°A,5°A
+META_VOLUNTARIO,META,Voluntario/a,,Voluntaria Laura,Voluntario Mateo,Voluntaria Laura,Voluntaria Camila,Voluntario Mateo,Voluntaria Sofía,Voluntaria Camila,Voluntaria Laura,Voluntaria Sofía,Voluntario Mateo
+1,Momento 4,Momento 4 Máscaras,Perro,13,17,11,6,15,11,17,13,15,11
+2,Momento 4,Momento 4 Máscaras,Gato,10,9,12,15,13,14,8,8,9,14
+3,Momento 4,Momento 4 Máscaras,No participa/participa sin máscara,0,0,1,1,0,0,2,0,0,0
+4,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,comida rica y nutritiva y tomar agua fresca y limpia,22,24,24,20,26,19,26,17,23,20
+5,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Comer lo que sobre de mis humanos y tener agua de vez en cuando,0,1,0,2,1,2,1,2,0,2
+6,Momento 5,Perritos y gatitos ¿cómo te gustaría comer?,Aguantar hambre y tomar agua de la calle,1,1,0,0,1,4,0,2,1,3
+7,Momento 5,¿dónde y cómo te gustaría dormir?,"En una casita calientita, tranquilitos y protegidos de la lluvia",23,24,22,18,26,24,24,20,24,23
+8,Momento 5,¿dónde y cómo te gustaría dormir?,"Bajo la lluvia, sin poder descansar y amarrado del cuello",0,0,2,2,1,0,2,0,0,1
+9,Momento 5,¿dónde y cómo te gustaría dormir?,"En un sitio sucio, asustado y sin moverme",0,2,0,2,1,1,1,1,0,1
+10,Momento 5,Si me duele algo o me siento mal,Visitar a los médicos de animales y que me curen,20,23,22,19,25,23,24,20,21,23
+11,Momento 5,Si me duele algo o me siento mal,"Esperar mucho tiempo sin hacer nada, que se pase solo",3,3,0,3,1,2,2,0,3,2
+12,Momento 5,Si me duele algo o me siento mal,Que te echen eso que sabes que arde y que no sirve,0,0,2,0,2,0,1,1,0,0
+13,Momento 5,¿Qué cosas te gusta hacer?,"Olfatear, explorar y jugar, rascar, esconderse o trepar.",22,24,23,21,26,24,26,20,23,23
+14,Momento 5,¿Qué cosas te gusta hacer?,"Estar en la calle todo el tiempo, persiguiendo motos y evitando que me golpeen",1,2,1,1,1,0,1,1,0,1
+15,Momento 5,¿Qué cosas te gusta hacer?,Estar amarrado todo el tiempo,0,0,0,0,1,1,0,0,1,1
+16,Momento 5,5-5 ¿Qué me hace feliz?,Que me cuiden y den cariño,23,25,24,22,26,23,26,21,23,23
+17,Momento 5,5-5 ¿Qué me hace feliz?,Que me ignoren y no les importe mucho lo que pase conmigo,0,0,0,0,2,0,0,0,0,2
+18,Momento 5,5-5 ¿Qué me hace feliz?,"Que me griten, me persigan o me tiren cosas",0,1,0,0,0,2,1,0,1,0
+19,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Le sirvo comidita y cambio el agua,23,24,21,21,23,24,27,17,23,21
+20,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Darle cualquier cosa o esperar que alguien más lo haga,0,1,1,0,3,1,0,1,1,4
+21,Momento 6,"Si vemos el plato vacío o el agua sucia, ¿qué podemos hacer?",Lo ignoro y me quedo calladito,0,1,2,1,2,0,0,3,0,0
+22,Momento 6,¿Qué podemos hacer para que duerman felices?,"Pedir a una persona adulta que ponga una casita, seca y segura.",23,21,21,21,26,21,25,17,23,23
+23,Momento 6,¿Qué podemos hacer para que duerman felices?,Poner un techo y dejarlo amarrado allí,0,2,1,1,1,3,0,2,0,0
+24,Momento 6,¿Qué podemos hacer para que duerman felices?,dejarlo fuera de casa y amarrado que no pueda moverse mucho,0,1,0,0,0,1,0,0,0,1
+25,Momento 6,¿Qué podemos hacer para que duerman felices?,depende de cómo se comporte,0,2,2,0,1,0,2,2,1,1
+26,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Avisar pronto a un adulto para llevarlo a los médicos de animales,23,24,24,20,26,24,22,21,23,23
+27,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Darle cualquier cosa a ver si sirven,0,0,0,2,0,1,4,0,0,2
+28,Momento 6,"Si un perro cojea, tiene una herida o vomita, ¿qué hacemos?",Burlarnos o ignorarlo,0,2,0,0,2,0,1,0,1,0
+29,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Mantener distancia y pedir apoyo a una persona adulta,20,23,18,22,25,20,24,13,23,21
+30,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?",Acercarnos a tocarlo o cargarlo sin permiso,2,2,4,0,3,2,2,7,0,3
+31,Momento 6,"Si encontramos un perro o gato desconocido, ¿qué hacemos?","Perseguirlo, lanzarle objetos y gritarle",1,1,2,0,0,3,1,1,1,1
+32,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?","Respetar su señal, darle espacio y solo acompañarlo",23,25,23,22,26,24,26,18,22,25
+33,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Forzarlo a jugar,0,1,0,0,1,0,0,1,2,0
+34,Momento 6,"Si un animal se aleja, se esconde o no quiere un abrazo o jugar, ¿qué hacemos?",Regañarlo y gritarle,0,0,1,0,1,1,1,2,0,0
+35,Matriz del Semáforo,Tener agua limpia,VERDE,23,24,21,22,28,24,26,20,23,24
+36,Matriz del Semáforo,Tener agua limpia,AMARILLO,0,2,2,0,0,1,1,1,1,0
+37,Matriz del Semáforo,Tener agua limpia,ROJO,0,0,1,0,0,0,0,0,0,1
+38,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,VERDE,14,16,18,16,22,18,16,15,15,19
+39,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,AMARILLO,9,10,5,6,5,6,9,6,9,6
+40,Matriz del Semáforo,llevarlo con un médico de animales si están enfermos,ROJO,0,0,1,0,1,1,2,0,0,0
+41,Matriz del Semáforo,Acercarse a un perro desconocido,VERDE,0,1,0,3,1,2,5,1,1,0
+42,Matriz del Semáforo,Acercarse a un perro desconocido,AMARILLO,11,16,8,8,6,10,8,16,13,10
+43,Matriz del Semáforo,Acercarse a un perro desconocido,ROJO,12,9,16,11,21,13,14,4,10,15
+44,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,VERDE,0,2,2,0,1,2,0,0,1,0
+45,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,AMARILLO,0,3,3,2,0,2,2,1,1,1
+46,Matriz del Semáforo,Dejar que esté suelto todo el tiempo sin saber donde está,ROJO,23,21,19,20,27,21,25,20,22,24
+47,Matriz del Semáforo,Gritar o golpear,VERDE,1,0,1,0,0,1,0,0,0,0
+48,Matriz del Semáforo,Gritar o golpear,AMARILLO,0,0,0,0,0,1,1,0,0,0
+49,Matriz del Semáforo,Gritar o golpear,ROJO,22,26,23,22,28,23,26,21,24,25
